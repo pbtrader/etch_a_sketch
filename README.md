@@ -1,1 +1,1 @@
-Etch_A_Sketch Readme
+Creating an "etch-a-sketch" with HTML/CSS and Javascript. The squares of the grid are colored in when the mouse moves over them.
