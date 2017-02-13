@@ -1,8 +1,11 @@
 #grid{
 	background-color: blue;
-	height: 352px;
-	width: 352px;
+	height: 320px;
+	width: 320px;
 	margin: auto;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
 }
 
 .block{
@@ -11,14 +14,13 @@
 	width: 20px; 
 	display: inline-block;
     float: left;
-    margin: 1px;
 }
 
 body {
 	text-align: center;
 }
 
-#reset{
+button{
 	margin-top: 15px;
 	font-size: 20px;
 	border-radius: 5px;
