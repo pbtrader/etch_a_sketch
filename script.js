@@ -8,4 +8,8 @@ $(document).ready(function(){
 	$(document).on('mouseover','.block',function() {
         $(this).css('background-color','green');
     });
+
+    $('#reset').click(function(){
+    	$('.block').css('background-color','white');
+    })
 });

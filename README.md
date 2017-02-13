@@ -1,1 +1,1 @@
-Creating an "etch-a-sketch" with HTML/CSS and Javascript. The squares of the grid are colored in when the mouse moves over them.
+Creating an "etch-a-sketch" with HTML/CSS and Javascript. The squares of the grid are colored in when the mouse moves over them. Use the 'Reset' button to clear the grid.
